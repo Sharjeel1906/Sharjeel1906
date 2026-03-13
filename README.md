@@ -1,15 +1,16 @@
 # Hi, I'm Sharjeel Ahmed 👋
 
-**Software Engineering Student | Backend & Flutter App Developer | Automation & Java Enthusiast**
+**Software Engineering Student | Flutter & Backend Developer | Python & Automation Enthusiast**
 
 ---
 
 ## 🚀 About Me
-- 💻 Currently pursuing **Bachelor’s in Software Engineering (BSSE)** from **University of Karachi**  
-- 🌱 Expanding expertise in **Backend Development, Flutter App Development, Java, Automation, and AI**  
-- 👨‍💻 Passionate about designing and developing **scalable, maintainable, and high-performance applications**  
-- 🎯 Strong foundation in **C++, Python, and Java** with hands-on problem-solving experience  
-- ⚡ Fun fact: I love turning ideas into functional software — from mobile apps to backend systems and automation tools  
+- 💻 Currently pursuing **Bachelor’s in Software Engineering (BSSE)** from **University of Karachi**.  
+- 🌱 Expanding expertise in **Flutter App Development, Python Programming, Backend Systems, Automation, AI Integration, and Web Development**.  
+- 👨‍💻 Passionate about designing **scalable, maintainable, and high-performance applications**.  
+- 🎯 Strong foundation in **C++, Python, Java**, with hands-on problem-solving and project experience.  
+- ⚡ Fun fact: I love turning ideas into functional software — from mobile apps and backend systems to automation tools.  
+- 💼 **Actively looking for internship opportunities** to apply my skills in real-world projects and gain professional experience.  
 
 ---
 
@@ -17,9 +18,9 @@
 
 | Category | Skills & Tools |
 |----------|----------------|
-| **Programming Languages** | Python 🐍, C++, Java ☕, HTML/CSS, JavaScript |
-| **Frameworks & Development** | Flask, Flutter, Bootstrap, REST APIs |
-| **Automation & Tools** | Web Scraping, Python Automation, Selenium, File Handling |
+| **Programming Languages** | Python 🐍, C++, Java ☕, Dart (Flutter), HTML/CSS, JavaScript |
+| **Frameworks & Development** | Flutter, Flask, REST APIs, Bootstrap |
+| **Automation & Tools** | Python Automation, Web Scraping, Selenium, File Handling |
 | **Databases & Utilities** | SQLite, MySQL, Git & GitHub, VS Code |
 | **Other Tools** | Microsoft Office, Google Workspace, AI Prompting Tools |
 
@@ -30,19 +31,29 @@
 - **C++ Programming**  
 - **Java Essentials**  
 - **AI Prompting Essentials**  
+
 📄 All certifications are available on my [Portfolio](https://sharjeelahmed19.pythonanywhere.com/)
 
 ---
 
 ## 🌟 Projects
-- **Blog Website (Flask + SQLite)** – A complete blog system with CRUD functionality and Bootstrap UI  
-- **Spotify Automation Bot** – Automates playlist creation and user tasks using Python APIs  
-- **Flutter Mobile Apps** – Modern, interactive apps with intuitive user interfaces  
-- **Pomodoro Timer App** – A sleek productivity timer built with custom UI  
-- **C++ & Java Projects** – Data structures, algorithms, and console-based applications  
-- **Automation Scripts** – Real-world Python automation tools improving efficiency  
 
-> 💾 Explore all my projects here: [GitHub Repositories](https://github.com/Sharjeel1906?tab=repositories)
+### Flutter Apps
+- **Stacky Trends** – Cross-platform Flutter app with interactive UI and trending features.  
+- **Image Description App** – AI-powered Flutter app for automatic image captioning.  
+- **E-Commerce App** – Full-featured shopping app with product listing, cart, and checkout functionality.  
+
+### Backend & Web Development
+- **Blog Website (Flask + SQLite)** – Complete CRUD-based blogging system with responsive design.  
+- **Cafe & Wi-Fi Management Website** – Web system to manage café operations and Wi-Fi services efficiently.  
+
+### Automation & Python Apps
+- **Spotify Automation Bot** – Automates playlist creation and user tasks using Python APIs.  
+- **Automated Data Entry** – Python scripts to reduce manual work and improve efficiency.  
+- **Quizzler App (TkInter)** – GUI-based quiz application built with Python TkInter.  
+
+> 💾 Explore all my projects here: [GitHub Repositories](https://github.com/Sharjeel1906?tab=repositories)  
+> 🌐 View live projects: [Portfolio](https://sharjeelahmed19.pythonanywhere.com/)
 
 ---
 
@@ -56,7 +67,7 @@
 
 ![Sharjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharjeel1906&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel1906&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Sharjeel1906&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sharjeel1906&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel1906&theme=react-dark)  
 
 ---
