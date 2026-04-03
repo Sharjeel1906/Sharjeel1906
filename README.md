@@ -65,10 +65,10 @@
 
 ## 📊 GitHub Stats
 
-![Sharjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharjeel1906&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel1906&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sharjeel1906&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel1906&theme=react-dark)  
+![Sharjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharjeel1906&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel1906&layout=compact&theme=radical&cache_seconds=1800)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sharjeel1906&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel1906&theme=react-dark)
 
 ---
 
