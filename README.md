@@ -26,6 +26,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Sharjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharjeel1906&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel1906&layout=compact&theme=radical&cache_seconds=1800)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sharjeel1906&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel1906&theme=react-dark)
+
 ## 🏆 Certifications
 - **Python Programming**  
 - **C++ Programming**  
@@ -62,13 +69,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://sharjeelahmed19.pythonanywhere.com/)
 
 ---
-
-## 📊 GitHub Stats
-
-![Sharjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharjeel1906&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel1906&layout=compact&theme=radical&cache_seconds=1800)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sharjeel1906&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel1906&theme=react-dark)
 
 ---
 
