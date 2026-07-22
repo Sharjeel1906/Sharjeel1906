@@ -1,20 +1,16 @@
 <p align="center">
   <a href="https://github.com/Sharjeel1906">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Sharjeel%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20%26%20Backend%20Developer&descAlignY=55&descAlign=50" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sharjeel%20Ahmed&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20%26%20Backend%20Developer&descAlignY=62&descAlign=50&descSize=18" alt="Header"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&height=45&lines=Flutter+%26+Backend+Developer;Python+%26+Automation+Enthusiast;Turning+Ideas+Into+Functional+Software;Actively+Looking+for+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8892B0&center=true&vCenter=true&width=750&height=40&lines=Flutter+%26+Backend+Developer;Python+%26+Automation+Enthusiast;Building+Reliable%2C+Scalable+Software;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <code>Flutter Development</code> &nbsp;•&nbsp; <code>Backend Systems</code> &nbsp;•&nbsp; <code>Python Automation</code> &nbsp;•&nbsp; <code>AI Integration</code>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
 
 ---
 
